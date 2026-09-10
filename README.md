@@ -62,7 +62,7 @@ I'm a passionate full-stack developer with expertise in building scalable web ap
 
 ## 📫 Let's Connect
 
-- **Email** - [your-email@example.com](mailto:your-email@example.com)
+- **Email** - [ygrock10@gmail.com](mailto:ygrock10@gmail.com)
 - **LinkedIn** - [linkedin.com/in/yogesh-giri](https://linkedin.com/in/your-profile)
 - **Portfolio** - [your-portfolio.com](https://your-portfolio.com)
 - **Twitter** - [@your-handle](https://twitter.com/your-handle)
